@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Raleway;
+    src: url("../webPractice/fonts/raleway/raleway_thin-webfont.woff"),
+    url("../webPractice/fonts/raleway/raleway_thin-webfont.ttf");
+}
+
+body {
+    /*background-image: url("images/hong_kong_skyline.jpg");*/
+    
+    font-family: Raleway, Helvetica, Tahoma, sans-serif;
+    color: #53a4a6;
+}
+
+h1, h3 {
+    /*color: #4711ae; To be used when image is in background*/
+    background-color: #e3e3e3;
+    padding: 6px;
+}
